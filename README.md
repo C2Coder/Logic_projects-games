@@ -1,6 +1,8 @@
 # Logic_projects-games
 Projects and games for Logic board by Renata Zemanová
 
+In every project/game that i didn´t code, there is a Readme.md file with credits and who coded it.
+
 Projects
   - Fire
   - Random-Colors
