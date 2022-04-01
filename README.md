@@ -7,5 +7,5 @@ Projects
   - Moving Rainbow
 
 Games
-  - Tetris
+  - Tetris (in progress)
   - Snake
